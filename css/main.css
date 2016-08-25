@@ -1,0 +1,67 @@
+	body{
+		margin:auto;
+	}
+	h4{
+		margin-left: 5px;
+		bottom:5px;
+	}
+	.linea{
+		border-bottom: 3px solid black;
+		width: 80px;
+	}
+
+	.contenedor{
+			position: relative;
+			margin-left: auto;
+			margin-right: auto;
+			width: 780px;
+			margin-top: 50px;
+			
+		}
+	.box{
+		width:210px;
+		height:210px;
+		position: relative;
+		border: 2px solid gray;
+		float: left;
+		margin: 15px;
+		
+	}
+		
+	.n1{
+		background-image: url("../img/profile-1.png");
+		margin
+		}
+
+	.n2{
+		background-image:url("../img/profile-2.png");
+		}
+
+	.n3{
+		background-image:url("../img/profile-3.png"); 
+		
+		}
+	.n4{
+		background-image: url("../img/profile-4.png");
+		
+	}
+	.n5{
+		background-image: url("../img/profile-5.png");
+		
+	}
+	.n6{
+		background-image:url("../img/profile-6.png"); 
+		
+	
+	}
+
+	p{
+		position: absolute;
+		margin:0px;
+		padding:0px;
+		bottom:5px;
+		right:10px;
+
+
+	}
+
